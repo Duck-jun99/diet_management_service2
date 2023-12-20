@@ -1,0 +1,9 @@
+[submodule "Client_System"]
+	path = Client_System
+	url = https://github.com/Duck-jun99/DietMS
+[submodule "Service_System"]
+	path = Service_System
+	url = https://github.com/Duck-jun99/dietMS-django
+[submodule "Edge_System"]
+	path = Edge_System
+	url = https://github.com/Duck-jun99/yolov5
